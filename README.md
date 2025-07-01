@@ -16,4 +16,13 @@ Feel free to tweak and explore further!
 Python (Pandas, Matplotlib, Seaborn)
 
 Jupyter Notebook
+# Key Insights and Features
+Calculated engagement rates to find which influencers truly have the most active audiences
+
+Found strong correlation patterns between follower counts and engagement metrics
+
+Identified the most popular niches among top Instagrammers like fashion, fitness, and travel
+
+Created visualizations that make these insights easy to understand and share
+
 
